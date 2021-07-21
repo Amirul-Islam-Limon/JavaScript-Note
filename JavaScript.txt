@@ -1,0 +1,10 @@
+### for only get year, (it use in footer)
+=>
+(new Date()).getFullYear()
+
+
+## for day, date, and year (like this , Fri Jul 16 2021)
+=>
+date.toDateString()
+
+##
